@@ -20,4 +20,4 @@ This is Vanilla JavaScript weather app. My second project from SheCodes Plus, an
         <a href="https://meteo-shecodes-app.netlify.app/" target="_blank"
           >hosted on Netlify</a
         >
-      </footer>
+ </footer>
