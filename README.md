@@ -9,4 +9,15 @@ This is Vanilla JavaScript weather app. My second project from SheCodes Plus, an
     <img src="src/WeatherApp.jpg" alt="weather app image" width="60%" height="60%"/>
 </a>
 
-
+ <footer>
+        This project was coded by
+        <a href="https://github.com/matthieua/" target="_blank"> Matt Delac</a>,
+        is
+        <a href="https://github.com/matthieua/meteo" target="_blank"
+          >open-sourced on GitHub</a
+        >
+        and
+        <a href="https://meteo-shecodes-app.netlify.app/" target="_blank"
+          >hosted on Netlify</a
+        >
+      </footer>
